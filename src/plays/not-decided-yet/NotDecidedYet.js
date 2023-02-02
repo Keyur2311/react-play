@@ -2,7 +2,7 @@ import PlayHeader from 'common/playlists/PlayHeader';
 import './styles.css';
 
 // WARNING: Do not change the entry componenet name
-function NotDecidedYet(props) {
+function NotDecidedYet!(props) {
 
   // Your Code Start below.
 
@@ -28,4 +28,4 @@ function NotDecidedYet(props) {
   );
 }
 
-export default NotDecidedYet;
+export default NotDecidedYet!;
