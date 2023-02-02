@@ -2,7 +2,7 @@ import PlayHeader from 'common/playlists/PlayHeader';
 import './styles.css';
 
 // WARNING: Do not change the entry componenet name
-function NotDecidedYet!(props) {
+function Randomproject(props) {
 
   // Your Code Start below.
 
@@ -11,9 +11,9 @@ function NotDecidedYet!(props) {
       <div className="play-details">
         <PlayHeader play={props} />
         <div className="play-details-body">
-          {/* Your Code Starts Here */}
+        {/* Your Code Starts Here */}
           <div>
-            <h1>Play Details -  Not Decided Yet!</h1>
+            <h1>Play Details -  Randomproject</h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Pellentesque euismod, urna eu tincidunt consectetur,
@@ -21,11 +21,11 @@ function NotDecidedYet!(props) {
               euismod nunc.
             </p>
           </div>
-          {/* Your Code Ends Here */}
+        {/* Your Code Ends Here */}
         </div>
       </div>
     </>
   );
 }
 
-export default NotDecidedYet!;
+export default Randomproject;
