@@ -3,15 +3,13 @@ import './styles.css';
 
 // WARNING: Do not change the entry componenet name
 function Randomproject(props) {
-
   // Your Code Start below.
-
   return (
     <>
       <div className="play-details">
         <PlayHeader play={props} />
         <div className="play-details-body">
-        {/* Your Code Starts Here */}
+          {/* Your Code Starts Here */}
           <div>
             <h1>Play Details -  Randomproject</h1>
             <p>
@@ -21,11 +19,10 @@ function Randomproject(props) {
               euismod nunc.
             </p>
           </div>
-        {/* Your Code Ends Here */}
+          {/* Your Code Ends Here */}
         </div>
       </div>
     </>
   );
 }
-
 export default Randomproject;
