@@ -28,4 +28,4 @@ function NotDecidedYet(props) {
   );
 }
 
-export default NotDecidedYet!;
+export default NotDecidedYet;
